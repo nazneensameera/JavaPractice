@@ -17,9 +17,9 @@ public class Employee {
 		System.out.println(position);
 	}
 	
-	public static void main(String[] args) {
+public static void main(String[] args) {
 		
-		Employee emp = new Employee();
+		Employee emp = new Employee();//creating an object of the class
 		emp.eid=101;
 		emp.name="Nick";
 		emp.salary=1000.27;
@@ -35,12 +35,9 @@ public class Employee {
 		emp1.dept="Accounts";
 		emp1.position="Manager";
 		emp1.display();
-		
-		
-	}
 	
 	
-	
+}
 	
 	
 	

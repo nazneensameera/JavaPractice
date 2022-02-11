@@ -1,3 +1,3 @@
 # JavaPractice
 Basic java practice programs
-OOPS concepts added.
+OOPS concepts like Classes, Objects and methods
